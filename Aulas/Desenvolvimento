@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Petshop do Marcão</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo"> PetCAO</a>
+        <nav class="navbar">
+        <ul>
+            <li><a href="#about"> Sobre</a></li>
+            <li><a href="#gallery">Galeria</a></li>
+            <li><a href="#map">Mapa</a></li>
+            <li><a href="#contact">Sobre</a></li>
+        </ul>
+    </nav>
+    </header>
+    <section id="hero"></section>
+    <section id="about"></section>
+    <section id="gallery"></section>
+    <section id="map"></section>
+    <section id="contact"></section>
+    <footer>
+&copy; 2026 Todos os Direitos Reservados :: Desenvolvido por <a href="mauriciooortiga@gmail.com">Maurício Ortiga</a>
+
+
+    </footer>
+</body>
+</html>
