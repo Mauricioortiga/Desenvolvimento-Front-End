@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feat Hype</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">Feat Hype</a>
+        <nav class="navbar">
+        <ul>
+            <li><a href="#about"> Sobre</a></li>
+            <li><a href="#gallery">Galeria</a></li>
+            <li><a href="#map">Mapa</a></li>
+            <li><a href="#contact">Contato</a></li>
+        </ul>
+    </nav>
+    </header>
+    <main>
+    <section id="hero"></section>
+    <section id="about">
+        <h1>Sobre</h1>
+        
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Aliquam officiis quod praesentium odio nobis ipsa error eius 
+        excepturi autem officia, omnis rem in rerum velit veritatis 
+        ex culpa dicta sequi.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+            Sunt eius reiciendis voluptatum et error culpa corporis perferendis 
+            consequuntur dignissimos repellat, reprehenderit qui similique 
+            totam saepe. Iusto delectus temporibus ipsa iure.</p>
+    </section>
+    <section id="gallery">
+        <img src="img/favicon-16x16.png" alt="">
+        <img src="img/favicon-32x32.png" alt="">
+        <img src="img/Favicon.jpg" alt="">
+        <img src="img/Hero.jpg" alt="">
+        <img src="img/Nome sem fundo.png" alt="">
+    </section>
+    <section id="map"></section>
+    <section id="contact">
+        <h1>Contato</h1>
+        <form>    
+        <label for="">Nome
+                <input type="text" name="nome">
+            </label>
+            <label>E-mail
+                <input type="email" name="email">
+            </label>
+            <label>Mensagem
+                <textarea name="mensagem" rows="5"></textarea>
+            </label>
+            <button type="submit">Enviar</button>
+        </form>
+    </section>
+    </main>
+    <footer>
+&copy; 2026 Todos os Direitos Reservados :: Desenvolvido por <a href="mauriciooortiga@gmail.com">Maurício Ortiga</a>
+    </footer>
+</body>
+</html>
